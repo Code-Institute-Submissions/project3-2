@@ -1,0 +1,87 @@
+
+
+.nav-wrapper { 
+    background-color: black;
+}
+
+.card {
+    display: inline-block;
+}
+
+.card-image {
+    width: 40%; 
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+    border-radius: 4px;
+}
+
+.btn_small {
+    height: 24px;
+    width: 60px;
+    line-height: 12px;
+    margin: 5px 5px;
+    padding: 0.5em
+}
+
+.task_header {
+    margin-top: 5px;
+}
+
+
+.urgent_task {
+    color: red;
+}   
+.stylish-input-group .input-group-addon{
+    background: white !important; 
+}
+.stylish-input-group .form-control{
+	border-right:0; 
+	box-shadow:0 0 0; 
+	border-color:#ccc;
+}
+.stylish-input-group button{
+    border:2; 
+    height: 24px;
+    width: 60px;
+    background-color: blue; 
+    
+}  
+body{
+            margin-top:0px;
+           background: url('../images/pic.jpg');
+           background-size: cover;
+           background-repeat: no-repeat;
+           background-position: center center;
+
+
+
+} 
+.formbackground {
+    background-color:white; 
+ opacity:0.8;  
+} 
+.task_background {        
+ background-color:white; 
+ opacity:0.8;  
+}     
+.card.card-content {  
+padding:65px; 
+}    
+.formbackgroundcat { 
+  background-color:white; 
+ opacity:0.8;    
+}       
+h1 {
+color:white;
+}
+
+h2 { 
+color:white; 
+}
+h3 {
+color:white; 
+}
+h4 { 
+color:white; 
+}
