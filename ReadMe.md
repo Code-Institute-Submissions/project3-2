@@ -10,7 +10,6 @@ when you have created a book task it goes to the home page(tasks.html). From the
 In the book categories there are four main categories but if it is needed the user still can create their own category if they have taken the book from a place that is not listed as a category or just to ring a bell for a special one(place).App has got also delete function for the categories if the user want to personalize the categories and create their own.
 
 Template from the Lms videos was used to build this app. There were some specific UX designs that were taken into consideration when styling this site. The navbar was on the top off the desktop view to present a cleaner, more minimalistic approach to the design,and every page has a background photo which the same one for more minimalistic design. 
-.
 
 When you click to see the details about a  task, you'll be able to also see all of the options that the user has filled in from the add task form and to have all of the information  that is needed.
 
