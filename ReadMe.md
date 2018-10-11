@@ -40,5 +40,16 @@ Credits
 Content
 All content in the app  is written by me.
 
-Acknowledgments
-For the reviews, I followed the tutorials in the lms however, it was significantly modified to fit my project.
+
+Deployment: 
+https://github.com/DimitarDDD/project3 i link to GitHub repository
+https://dashboard.heroku.com/apps/task-manager-flask-mongo-/deploy/heroku-git - link to heroku
+
+Credits
+Acknowledgments:
+For the reviews, I followed the tutorials in the lms however, it was significantly modified to fit my project. 
+
+Content
+The text for section Y was copied from the Goodreads and other book websites. 
+
+
