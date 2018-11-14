@@ -1,1 +1,1 @@
-web: python appread.py
+web: python run.py
